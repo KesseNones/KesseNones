@@ -1,4 +1,8 @@
-## Hi there 👋
+# Kesse Nones Profile README
+
+## Name: Jesse Jones (KesseNones)
+
+## [[INSERT MORE DETAILS HERE]]
 
 <!--
 **KesseNones/KesseNones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

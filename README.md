@@ -1,8 +1,7 @@
-# Kesse Nones Profile README
-
-## Name: Jesse Jones (KesseNones)
-
-## [[INSERT MORE DETAILS HERE]]
+# Kesse Nones
+## - Bachelor of Science Computer Science
+## - Maker of two programming languages
+## - Looking to make a difference
 
 <!--
 **KesseNones/KesseNones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

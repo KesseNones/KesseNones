@@ -1,19 +1,13 @@
-# Kesse Nones
-## - Bachelor of Science Computer Science
-## - Maker of two programming languages
-## - Looking to make a difference
+# Greetings! 
 
-<!--
-**KesseNones/KesseNones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About
 
-Here are some ideas to get you started:
+I am Jesse, a computer science degree holder looking to contribute to the world and find an eventual career in *something*. 
+I enjoy programming languages and systems programming concepts but have also dabbled in most other fields of computer 
+science in my education, excepting maybe machine learning stuff but I could learn that too. 
+Overall, I specialize in programming language design at present before having made a career. When not coding a 
+play video games and write/learn about sci-fi lore.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+ - Languages: 
+ 	- <span style="color:green">Cock</span>

@@ -6,7 +6,7 @@ I am Jesse (any/all), a computer science degree holder looking to contribute to 
 
 # Fun Fact: I made two whole programming languages just because I can!
 
-## Languages: 
+### Languages: 
 <span style="`background: rgb(2,0,36);   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,246,255,1) 0%, rgba(242,255,0,1) 100%); color: black;`">Python</span> <span style="background-color: blue; color: white">C</span> <span style="background-color: #f74b00; color: black">Rust</span> <span style="background-color: purple; color: white">Haskell</span> $\LaTeX{}$ <span style="`background: rgb(2,0,36);   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,111,121,1) 0%, rgba(255,146,0,1) 100%); color: black;`">Kotlin</span> <span style="background-color: orange; color: black">Java</span> <span style="background-color: #2077be; color: white">SQL</span> <span style="background-color: yellow; color: black">JavaScript</span>   
 
 ## Tools: 

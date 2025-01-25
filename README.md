@@ -1,10 +1,10 @@
 # 👋 Greetings! 
 # 📚 About 
 
-I am Jesse, a computer science degree holder looking to contribute to the world and find an eventual career in *something*. I enjoy programming languages and systems programming concepts but have also dabbled in most other fields of computer science in my education, excepting maybe machine learning stuff but I could learn that too. Overall, I specialize in programming language design at present before having made a career. When not coding a play video games and both write and learn about sci-fi lore.
+I am Jesse, a computer science degree holder looking to contribute to the world and find an eventual career in *something*. I enjoy programming languages and systems programming concepts but have also dabbled in most other fields of computer science in my education, excepting maybe machine learning stuff but I could learn that too. Overall, I specialize in programming language design at present before having made a career. When not coding, I play video games and both write and learn about sci-fi lore.
 #### 🔍 Fun Fact 
-I made two whole programming languages just because I can!
-# 📜 Languages 
+I made **two** whole programming languages on my own just because I can!
+# 📜 Programming Languages 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 - ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -18,6 +18,8 @@ I made two whole programming languages just because I can!
 - ![Agile](https://img.shields.io/badge/Agile-FFFFFF?style=for-the-badge&logo=agile&logoColor=black)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)

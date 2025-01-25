@@ -5,25 +5,25 @@ I am Jesse, a computer science degree holder looking to contribute to the world 
 #### 🔍 Fun Fact 
 I made two whole programming languages just because I can!
 # 📜 Languages 
-- <span style="`background: rgb(2,0,36);   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,246,255,1) 0%, rgba(242,255,0,1) 100%); color: black;`">Python</span>
-- <span style="background-color: blue; color: white">C</span>
-- <span style="background-color: #f74b00; color: black">Rust</span>
-- <span style="background-color: purple; color: white">Haskell</span>
-- $\LaTeX{}$
-- <span style="`background: rgb(2,0,36);   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,111,121,1) 0%, rgba(255,146,0,1) 100%); color: black;`">Kotlin</span>
-- <span style="background-color: orange; color: black">Java</span>
-- <span style="background-color: #2077be; color: white">SQL</span>
-- <span style="background-color: yellow; color: black">JavaScript</span>
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+- ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+- ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 # 🔧 Tools 
-- <span style = "background: white; color: black;">Agile Methodologies</span> 
-- <span style = "background: white; color: black;">Git</span>
-- <span style = "background: white; color: black;">WebGL</span>
-- <span style = "background: white; color: black;">Android Studio</span>
-- <span style = "background: white; color: black;">IntelliJ IDEA</span>
-- <span style = "background: white; color: black;">Visual Studio</span>
-- <span style = "background: white; color: black;">Unreal Engine 5</span>
-- <span style = "background: white; color: black;">Overleaf</span>
-- <span style = "background: white; color: black;">Obsidian</span>  
+- ![Agile](https://img.shields.io/badge/Agile-FFFFFF?style=for-the-badge&logo=agile&logoColor=black)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+- ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+- ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+- ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
+- ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+- ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 # 💻 Projects 
 ## [Lmao Programming Language](https://github.com/KesseNones/LmaoProgrammingLanguage)
 Uses the Rust programming language to carry out running the Lmao programming language. 

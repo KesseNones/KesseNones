@@ -43,6 +43,28 @@ The interpreter works just like Lmao but with Haskell and less optimization. The
 It's not updated much these days but it's a cool step in the journey and shows off some good skill in translating functional programming to imperative via interpretation. 
 
 While it may not be as good as Lmao, it's the first language made by me and it therefore has a special place in my core.
+
+## [Receipt Processor](https://github.com/KesseNones/FetchBackendExercise)
+A project created for Fetch as part of their backend exercise. It utilizes the Go programming language to implement HTTP endpoints that can be queried using curl or other tools such as web browsers. 
+
+This project employs Docker to build and run the server in a containerized environment, making it more usable across platforms, 
+provided the host has a recent Docker version installed. 
+
+The endpoints implemented are `/receipts/process` and `/receipts/{id}/points`.
+
+`/receipts/process` takes a POST request that contains a receipt JSON. This JSON is parsed by the server to determine how many 
+points it's worth, based on a set of arbitrary rules provided by Fetch. This point value is then stored in a hashmap with a generated
+UUID as the key and the calculated points as the value. This database is stored in memory because Fetch instructed it to be that way.
+Once stored, a JSON containing the generated ID is returned to the user like so: `{"id": "23423d-23dd2-d23d-23d-23dddd"}`.
+If the receipt is formatted wrong in some way, an error is returned to the user.
+
+`/receipts/{id}/points` takes a GET requst with the URL containing a generated ID. If this ID is valid, it is used to query
+the hashmap to find the point value associated with the key. If the key exists, a JSON containing the number 
+of points associated with that ID is returned like so: `{"points": 42}`.
+If the ID doesn't exist, an error is returned to the user indicating as such.
+
+Overall, this isn't a huge project or anything but is a good showcase of my abilities to work with Docker to an extent and use HTTP requests to do basic backend endpoints. 
+
 ## [Omniprogram Side Projects](https://github.com/KesseNones/Omniprogram-Side-Projects)
 An old repo containing more than 100 GUI Python programs that are all linked together through janky main calls. This effectively results in a large program that can do many things including conversions, clock displays, and calendars. 
 

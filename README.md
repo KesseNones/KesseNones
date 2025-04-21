@@ -96,7 +96,12 @@ If you happen to be a WSUV student taking CS 360 looking at my GitHub, don't use
 Warning aside, this gave me a huge boost to my abilities with the C programming language.
 
 ## [CS 360 Homework Solutions](https://github.com/KesseNones/CS360-HW)
-These are all the completed homework assignments that I have from the same class of the final project shown above. They showcase more experience I have with C. If you happen to be a WSUV student taking CS 360 looking at my GitHub, don't use these to cheat!
+These are all the completed homework assignments that I have from the same class of the final project shown above. They showcase more experience I have with C. 
+
+If you happen to be a WSUV student taking CS 360 looking at my GitHub, don't use these to cheat!
+
+These projects were what really taught me how to write code in C correctly.
+
 ## [CS 450 Algorithms Projects Solutions](https://github.com/KesseNones/CS450-Algorithms-Projects)
 A compilation of five algorithms projects written in Rust that showcase my experience with some of the classic algorithms as well as using Rust. If you're a WSUV student taking CS 450, don't cheat with these!
 ## [Mars Crawler](https://github.com/KesseNones/MarsCrawler)

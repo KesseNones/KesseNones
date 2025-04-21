@@ -68,7 +68,7 @@ the hashmap to find the point value associated with the key. If the key exists, 
 of points associated with that ID is returned like so: `{"points": 42}`.
 If the ID doesn't exist, an error is returned to the user indicating as such.
 
-Overall, this isn't a huge project or anything but is a good showcase of my abilities to work with Docker to an extent and use HTTP requests to do basic backend endpoints. 
+This project gave me a significant improvement to my understanding of Docker and is a good showcase of my understanding of basic HTTP endpoints to access pseudo-databases. 
 
 ## [Omniprogram Side Projects](https://github.com/KesseNones/Omniprogram-Side-Projects)
 An old repo containing more than 100 GUI Python programs that are all linked together through janky main calls. This effectively results in a large program that can do many things including conversions, clock displays, and calendars. 

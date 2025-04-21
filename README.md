@@ -1,7 +1,7 @@
 # 👋 Greetings! 
 # 📚 About 
 
-I am Jesse, a computer science degree holder looking to contribute to the world and find an eventual career in *something*. I enjoy programming languages and systems programming concepts but have also dabbled in most other fields of computer science in my education, excepting maybe machine learning stuff but I could learn that too. Overall, I specialize in programming language design at present before having made a career. When not coding, I play video games and both write and learn about sci-fi lore.
+I am Jesse, a computer science degree holder looking for an opportunity to apply the skills I've learned in frontend and backend software engineering through my experience with Seasalt.ai and my undergraduate degree program. Though I may have the most experience with those two aspects of software engineering, I am open to learning about other areas of software development such as cyber-security or AI/Machine Learning. I enjoy programming languages and systems programming concepts. When not coding, I play video games, write my own sci-fi lore, learn about the universe, and more. 
 #### 🔍 Fun Fact 
 I made **two** whole programming languages on my own just because I can!
 # 📜 Programming Languages 

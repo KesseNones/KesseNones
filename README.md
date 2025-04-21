@@ -71,9 +71,12 @@ If the ID doesn't exist, an error is returned to the user indicating as such.
 This project gave me a significant improvement to my understanding of Docker and is a good showcase of my understanding of basic HTTP endpoints to access pseudo-databases. 
 
 ## [Omniprogram Side Projects](https://github.com/KesseNones/Omniprogram-Side-Projects)
-An old repo containing more than 100 GUI Python programs that are all linked together through janky main calls. This effectively results in a large program that can do many things including conversions, clock displays, and calendars. 
+An old repo containing more than 100 GUI Python programs that are all linked together through calls to program mains. This effectively results in a large program that can perform dozens of different tasks, mostly time related. 
 
-This repo is also rarely updated with the exception of the occasional fix but it's still a fun set of GUI programs. Windows users can also run this without Python since an executable was built for Windows using PyInstaller.
+This repo is rarely updated with the exception of the occasional fix but it's still a fun set of GUI programs. Windows users can also run this without Python since an executable was built for Windows using PyInstaller.
+
+The Omniprogram gave me a an understanding of Python and Tkinter vastly greater than I had before in the process of building user-friendly applications via the Tkinter library.
+
 ## [Computer Graphics Spaceship](https://github.com/KesseNones/ComputerGraphicsSpaceship)
 A good demonstration of computer graphics using WebGL and JavaScript. This project can be run using a Python web server after cloning the repo. When the localhost at port 8000 is connected to via a browser of choice, the user can see a 3D spaceship floating over a small landscape made of gray mountains and an ocean of blood. Making this project for my computer graphics class was very rewarding as I saw parts of it come together.
 ## [CS 360 (Systems Programming) Final Project](https://github.com/KesseNones/CS360FinalProject)

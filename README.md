@@ -2,8 +2,14 @@
 # 📚 About 
 
 I am Jesse, a computer science degree holder looking for an opportunity to apply the skills I've learned in frontend and backend software engineering through my experience with Seasalt.ai and my undergraduate degree program. Though I may have the most experience with those two aspects of software engineering, I am open to learning about other areas of software development such as cyber-security or AI/Machine Learning. I enjoy programming languages and systems programming concepts. When not coding, I play video games, write my own sci-fi lore, learn about the universe, and more. 
+
 #### 🔍 Fun Fact 
 I made **two** whole programming languages on my own just because I can!
+
+## Interested? Contact Me! 💬
+- [LinkedIn](https://www.linkedin.com/in/jesseangusjones/)
+- [Email](mailto:jesse.angus.jones@gmail.com)
+
 # 📜 Programming Languages 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -26,7 +32,8 @@ I made **two** whole programming languages on my own just because I can!
 - ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 - ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 - ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
-# 💻 Projects 
+
+# 💻 Cool Projects 
 ## [Lmao Programming Language](https://github.com/KesseNones/LmaoProgrammingLanguage)
 Uses the Rust programming language to carry out running the Lmao programming language. 
 
@@ -37,17 +44,6 @@ The interpreter takes in a `.lmao` file, parses it into an abstract syntax tree,
 The compiler takes a `.lmao` file, parses it, turns it into an abstract syntax tree, translates the ast into a Rust file, then lastly uses rustc to compile it to machine code as an executable. This results in a language faster than Python when compiled!
 
 This project greatly improved my understanding of Rust and how to optimize the underlying language it interprets and is still in active development which has been really fun.
-
-## [EcksDee Programming Language](https://github.com/KesseNones/EcksDee-Programming-Language)
-The predecessor to Lmao that uses Haskell for both interpretation and compilation of `.xd` files. 
-
-This project originated as a crude Forth dialect made for a programming language design class in my undergraduate university program. Unsatisfied with such a basic implementation, I took the foundations and built upon them until EcksDee contained features held by practically every modern programming language.
-
-The interpreter works just like Lmao but with Haskell. 
-
-The compiler works the same as with Lmao just with Haskell and ghc instead of the Rust equivalents.
-
-The project overall was my first forray into using advanced functional programming concepts to implement a programming language well beyond the scope of the university class the initially crude Forth dialect orignated in. This also gave me a vastly greater understanding of Haskell itself via the usage of Monads to allow for side effects and IO.
 
 ## [Receipt Processor](https://github.com/KesseNones/FetchBackendExercise)
 A project created for Fetch as part of their backend exercise. It utilizes the Go programming language to implement HTTP endpoints that can be queried using curl or other tools such as web browsers. 
@@ -95,6 +91,19 @@ If you happen to be a WSUV student taking CS 360 looking at my GitHub, don't use
 
 Warning aside, this gave me a huge boost to my abilities with the C programming language.
 
+# 💻 Other Projects 
+
+## [EcksDee Programming Language](https://github.com/KesseNones/EcksDee-Programming-Language)
+The predecessor to Lmao that uses Haskell for both interpretation and compilation of `.xd` files. 
+
+This project originated as a crude Forth dialect made for a programming language design class in my undergraduate university program. Unsatisfied with such a basic implementation, I took the foundations and built upon them until EcksDee contained features held by practically every modern programming language.
+
+The interpreter works just like Lmao but with Haskell. 
+
+The compiler works the same as with Lmao just with Haskell and ghc instead of the Rust equivalents.
+
+The project overall was my first forray into using advanced functional programming concepts to implement a programming language well beyond the scope of the university class the initially crude Forth dialect orignated in. This also gave me a vastly greater understanding of Haskell itself via the usage of Monads to allow for side effects and IO.
+
 ## [CS 360 Homework Solutions](https://github.com/KesseNones/CS360-HW)
 These are all the completed homework assignments that I have from the same class of the final project shown above. They showcase more experience I have with C. 
 
@@ -135,7 +144,3 @@ I was in charge of making the scoreboard work, state changes, explosions, and so
 It's doubtful that this hunk of junk still works but if you can clone this repo and get it running using Unreal Engine, I applaud you greatly. 
 
 The mess of this project aside, I learned an immense amount about how Unreal Engine works and how to integrate C++ with it, both of which are very useful skills especially in the realm of game design. I also learned how to manage a Git repo with other people for the first time too.
-
-## Contact Me 💬
-- [LinkedIn](https://www.linkedin.com/in/jesseangusjones/)
-- [Email](mailto:jesse.angus.jones@gmail.com)

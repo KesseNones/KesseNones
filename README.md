@@ -124,9 +124,18 @@ Implemented for the same fall 2023 Game Design class as a two week homework proj
 This laid the foundation for game design using Java and Gdx.
 
 ## [Xtreme Pong](https://github.com/KesseNones/CS-320-Project)
-This project was made using Unreal Engine 5 and C++. It was painful and gross but as a group of four over the course of a few months, we implemented a game of Pong that ran at 15 FPS. I was in charge of making the scoreboard work, state changes, explosions, and sound effects. The other members did other important parts of the game. One did the ball, one did the paddles and the menu, and one just mooched on our hard work. Group projects, amirite? 
+This project was made using Unreal Engine 5 and C++. 
+
+It's called `Xtreme Pong` because it was supposed to be pong that was "Xtreme<sup>TM</sup>", basically Pong but with extra epic features like explosions and fire everywhere with tons of features. As it turned out. It was way harder to do than anticipated.
+
+It was painful and gross but as a group of four over the course of a few months, we implemented a game of Pong that ran at 15 FPS on a halfway decent machine. 
+
+I was in charge of making the scoreboard work, state changes, explosions, and sound effects. The other members did other important parts of the game. One did the ball, one did the paddles and the menu and very early powerups, and one just mooched off our hard work. Group projects, amirite? 
 
 It's doubtful that this hunk of junk still works but if you can clone this repo and get it running using Unreal Engine, I applaud you greatly. 
+
+The mess of this project aside, I learned an immense amount about how Unreal Engine works and how to integrate C++ with it, both of which are very useful skills especially in the realm of game design. I also learned how to manage a Git repo with other people for the first time too.
+
 ## Contact Me 💬
 - [LinkedIn](https://www.linkedin.com/in/jesseangusjones/)
 - [Email](mailto:jesse.angus.jones@gmail.com)

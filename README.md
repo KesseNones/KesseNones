@@ -6,7 +6,7 @@ I am Jesse, a computer science degree holder looking for an opportunity to apply
 #### 🔍 Fun Fact 
 I made **two** whole programming languages on my own just because I can!
 
-## Interested? Contact Me! 💬
+## 💬 Interested? Contact Me!
 - [LinkedIn](https://www.linkedin.com/in/jesseangusjones/)
 - [Email](mailto:jesse.angus.jones@gmail.com)
 

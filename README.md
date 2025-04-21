@@ -110,7 +110,14 @@ If you're a WSUV student taking CS 450, don't cheat with these!
 These projects were helpful in cementing my foundational knoweldge of Rust before I made a programming language in it.
 
 ## [Mars Crawler](https://github.com/KesseNones/MarsCrawler)
-A crummy PacMan clone that was made for my fall 2023 Game Design class at university, using IntelliJ IDEA and built using Gradle. The program itself was made using Java *(shudders)*. Jokes aside, it's okay. The movement is janky but it works. It contains three levels of collecting resources in alien caves and running from blobs. Eventually I may come back to this to make it less terrible.
+A PacMan clone that was made for my fall 2023 Game Design class at university, using IntelliJ IDEA and built using Gradle. 
+
+The program itself was made using Java *(shudders)*. 
+
+Jokes aside, it contains three levels of collecting resources in alien caves and running from blobs. 
+
+This project improved my knowledge of Java and how to use it for making games, the one place where OOP actually isn't too bad.
+
 ## [Breakout Knockoff](https://github.com/KesseNones/KnockOffBreakout)
 Implemented for the same fall 2023 Game Design class as a two week homework project that was a recreation of breakout. It's janky and the collisions are gross but it works well enough.
 ## [Xtreme Pong](https://github.com/KesseNones/CS-320-Project)

@@ -116,10 +116,13 @@ The program itself was made using Java *(shudders)*.
 
 Jokes aside, it contains three levels of collecting resources in alien caves and running from blobs. 
 
-This project improved my knowledge of Java and how to use it for making games, the one place where OOP actually isn't too bad.
+This project improved my knowledge of Java and how to use it for making games, the one place where OOP actually isn't too bad. Also the second time I had major exposure to the BadLogic Gdx game development API.
 
 ## [Breakout Knockoff](https://github.com/KesseNones/KnockOffBreakout)
-Implemented for the same fall 2023 Game Design class as a two week homework project that was a recreation of breakout. It's janky and the collisions are gross but it works well enough.
+Implemented for the same fall 2023 Game Design class as a two week homework project that was a recreation of breakout.
+
+This laid the foundation for game design using Java and Gdx.
+
 ## [Xtreme Pong](https://github.com/KesseNones/CS-320-Project)
 This project was made using Unreal Engine 5 and C++. It was painful and gross but as a group of four over the course of a few months, we implemented a game of Pong that ran at 15 FPS. I was in charge of making the scoreboard work, state changes, explosions, and sound effects. The other members did other important parts of the game. One did the ball, one did the paddles and the menu, and one just mooched on our hard work. Group projects, amirite? 
 

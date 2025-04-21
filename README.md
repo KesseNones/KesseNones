@@ -78,7 +78,12 @@ This repo is rarely updated with the exception of the occasional fix but it's st
 The Omniprogram gave me a an understanding of Python and Tkinter vastly greater than I had before in the process of building user-friendly applications via the Tkinter library.
 
 ## [Computer Graphics Spaceship](https://github.com/KesseNones/ComputerGraphicsSpaceship)
-A good demonstration of computer graphics using WebGL and JavaScript. This project can be run using a Python web server after cloning the repo. When the localhost at port 8000 is connected to via a browser of choice, the user can see a 3D spaceship floating over a small landscape made of gray mountains and an ocean of blood. Making this project for my computer graphics class was very rewarding as I saw parts of it come together.
+A good demonstration of computer graphics using WebGL and JavaScript. 
+
+This project can be run using a Python web server after cloning the repo. When the localhost at port 8000 is connected to via a browser of choice and the `main.html` file is selected, the user can see a 3D spaceship floating over a small landscape made of gray mountains and an ocean of blood. Making this project for my computer graphics class was very rewarding as I saw parts of it come together.
+
+This was the culimation of my entire computer graphics class, fully cementing how 3D graphics work in the first place. This was a fantastic increase to my skills in regards to WebGL and JavaScript.
+
 ## [CS 360 (Systems Programming) Final Project](https://github.com/KesseNones/CS360FinalProject)
 The final project for my systems programming class in Fall Semester of 2022 at university. It's a good demonstration of my experience with C as well as local networking using C's sockets. This program also utilizes multi-processing so many clients can connect to one server. If you happen to be a WSUV student taking CS 360 looking at my GitHub, don't use these to cheat!
 ## [CS 360 Homework Solutions](https://github.com/KesseNones/CS360-HW)

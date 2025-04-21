@@ -85,7 +85,16 @@ This project can be run using a Python web server after cloning the repo. When t
 This was the culimation of my entire computer graphics class, fully cementing how 3D graphics work in the first place. This was a fantastic increase to my skills in regards to WebGL and JavaScript.
 
 ## [CS 360 (Systems Programming) Final Project](https://github.com/KesseNones/CS360FinalProject)
-The final project for my systems programming class in Fall Semester of 2022 at university. It's a good demonstration of my experience with C as well as local networking using C's sockets. This program also utilizes multi-processing so many clients can connect to one server. If you happen to be a WSUV student taking CS 360 looking at my GitHub, don't use these to cheat!
+The final project for my systems programming class in Fall Semester of 2022 at university. 
+
+It's a good demonstration of my experience with C as well as local networking using C's sockets. 
+
+This program also utilizes multi-processing so many clients can connect to one server. 
+
+If you happen to be a WSUV student taking CS 360 looking at my GitHub, don't use this to cheat!
+
+Warning aside, this gave me a huge boost to my abilities with the C programming language.
+
 ## [CS 360 Homework Solutions](https://github.com/KesseNones/CS360-HW)
 These are all the completed homework assignments that I have from the same class of the final project shown above. They showcase more experience I have with C. If you happen to be a WSUV student taking CS 360 looking at my GitHub, don't use these to cheat!
 ## [CS 450 Algorithms Projects Solutions](https://github.com/KesseNones/CS450-Algorithms-Projects)

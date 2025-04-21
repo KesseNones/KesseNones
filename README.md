@@ -41,11 +41,13 @@ This project greatly improved my understanding of Rust and how to optimize the u
 ## [EcksDee Programming Language](https://github.com/KesseNones/EcksDee-Programming-Language)
 The predecessor to Lmao that uses Haskell for both interpretation and compilation of `.xd` files. 
 
-The interpreter works just like Lmao but with Haskell and less optimization. The compiler works the same as with Lmao just with Haskell and ghc instead of the Rust equivalents.
+This project originated as a crude Forth dialect made for a programming language design class in my undergraduate university program. Unsatisfied with such a basic implementation, I took the foundations and built upon them until EcksDee contained features held by practically every modern programming language.
 
-It's not updated much these days but it's a cool step in the journey and shows off some good skill in translating functional programming to imperative via interpretation. 
+The interpreter works just like Lmao but with Haskell. 
 
-While it may not be as good as Lmao, it's the first language made by me and it therefore has a special place in my core.
+The compiler works the same as with Lmao just with Haskell and ghc instead of the Rust equivalents.
+
+The project overall was my first forray into using advanced functional programming concepts to implement a programming language well beyond the scope of the university class the initially crude Forth dialect orignated in. This also gave me a vastly greater understanding of Haskell itself via the usage of Monads to allow for side effects and IO.
 
 ## [Receipt Processor](https://github.com/KesseNones/FetchBackendExercise)
 A project created for Fetch as part of their backend exercise. It utilizes the Go programming language to implement HTTP endpoints that can be queried using curl or other tools such as web browsers. 

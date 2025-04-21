@@ -34,7 +34,10 @@ This project features both an interpreter and a compiler for Lmao.
 
 The interpreter takes in a `.lmao` file, parses it into an abstract syntax tree, and runs it all in one go. 
 
-The compiler takes a `.lmao` file, parses it, turns it into an abstract syntax tree,  translates the ast into a Rust file, then lastly uses rustc to compile it to machine code. This results in a language marginally faster than Python when compiled!
+The compiler takes a `.lmao` file, parses it, turns it into an abstract syntax tree, translates the ast into a Rust file, then lastly uses rustc to compile it to machine code as an executable. This results in a language faster than Python when compiled!
+
+This project greatly improved my understanding of Rust and how to optimize the underlying language it interprets and is still in active development which has been really fun.
+
 ## [EcksDee Programming Language](https://github.com/KesseNones/EcksDee-Programming-Language)
 The predecessor to Lmao that uses Haskell for both interpretation and compilation of `.xd` files. 
 

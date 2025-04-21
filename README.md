@@ -103,7 +103,12 @@ If you happen to be a WSUV student taking CS 360 looking at my GitHub, don't use
 These projects were what really taught me how to write code in C correctly.
 
 ## [CS 450 Algorithms Projects Solutions](https://github.com/KesseNones/CS450-Algorithms-Projects)
-A compilation of five algorithms projects written in Rust that showcase my experience with some of the classic algorithms as well as using Rust. If you're a WSUV student taking CS 450, don't cheat with these!
+A compilation of five algorithms projects written in Rust that showcase my experience with some of the classic algorithms as well as using Rust. 
+
+If you're a WSUV student taking CS 450, don't cheat with these!
+
+These projects were helpful in cementing my foundational knoweldge of Rust before I made a programming language in it.
+
 ## [Mars Crawler](https://github.com/KesseNones/MarsCrawler)
 A crummy PacMan clone that was made for my fall 2023 Game Design class at university, using IntelliJ IDEA and built using Gradle. The program itself was made using Java *(shudders)*. Jokes aside, it's okay. The movement is janky but it works. It contains three levels of collecting resources in alien caves and running from blobs. Eventually I may come back to this to make it less terrible.
 ## [Breakout Knockoff](https://github.com/KesseNones/KnockOffBreakout)
